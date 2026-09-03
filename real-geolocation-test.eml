@@ -1,0 +1,29 @@
+From: security-alert@example-test.com
+To: test@example.com
+Subject: URGENT: Your account has been suspended - verify immediately
+Date: Thu, 03 Sep 2026 10:30:00 +0000
+Message-ID: <cybershield-real-geo-test@example-test.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Received: from suspicious-mail.example (8.8.8.8)
+    by mail.example-test.com with ESMTP;
+    Thu, 03 Sep 2026 10:30:00 +0000
+Authentication-Results: mail.example-test.com;
+    spf=fail;
+    dkim=fail;
+    dmarc=fail
+
+URGENT SECURITY ALERT
+
+Your account has been suspended.
+
+We detected unusual activity on your account.
+You must verify your password immediately.
+
+Click the link below to restore access:
+
+https://aicte-login.xyz/verify
+
+Failure to verify your account immediately may result in permanent suspension.
+
+Security Department
